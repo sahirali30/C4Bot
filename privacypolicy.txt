@@ -1,0 +1,20 @@
+Privacy Policy for Private Home Automation SMS Bot
+
+This SMS service is a private, family-only home automation bot used to send commands to a personal Control4 home system.
+
+Information collected:
+We store authorized family members’ phone numbers so the bot can verify who is allowed to use it. We may temporarily log incoming command text, timestamps,
+and delivery/error information for troubleshooting and security.
+
+How information is used:
+Phone numbers and message content are used only to authenticate users, process requested home automation commands, and send confirmation or error replies.
+
+Sharing:
+We do not sell, rent, or share personal information for marketing. SMS messages are processed through Twilio, our messaging provider, and may be handled
+according to Twilio’s own policies.
+
+Opt out:
+Authorized users may stop using the bot at any time by texting STOP or by asking the owner to remove their number from the allowlist.
+
+Contact:
+For questions or removal requests, contact the owner of this private home automation system.
